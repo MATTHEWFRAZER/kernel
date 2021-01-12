@@ -7,7 +7,7 @@
 #include <linux/tcp.h>
 #include <linux/udp.h>
 #include <linux/spinlock.h>
-#include <sys/socket.h>
+#include <linux/socket.h>
 
 MODULE_DESCRIPTION("example of a network_filter");
 MODULE_LICENSE("GPL");
